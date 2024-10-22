@@ -12,3 +12,14 @@ add_executable(Cv1 Cv1/main.cpp
         Cv1/Worm.cpp
 )
 add_executable(Array Array/main.cpp)
+
+add_executable(Text Text/main.cpp)
+
+add_executable(TextVector Text/main1.cpp)
+
+add_executable(Hangman Hangman/main.cpp
+        Hangman/Game.h
+        Hangman/Game.cpp
+        Hangman/Word.h
+        Hangman/Word.cpp
+)
