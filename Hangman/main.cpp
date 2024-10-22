@@ -1,3 +1,8 @@
-//
-// Created by Nikita on 23.10.2024.
-//
+#include "Word.h"
+
+int main(){
+
+    Word wordSelector("game.txt");
+    cout<<wordSelector.getRandomWord()<<endl;
+
+}
