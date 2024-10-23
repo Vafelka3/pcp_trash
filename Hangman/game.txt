@@ -1,4 +1,4 @@
-Orange Apple
-Banana
-Word
-Ping
+orange apple
+banana
+word
+ping

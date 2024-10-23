@@ -1,8 +1,8 @@
-#include "Word.h"
+#include "Game.h"
 
 int main(){
+    Game game ("game.txt");
+    game.start();
 
-    Word wordSelector("game.txt");
-    cout<<wordSelector.getRandomWord()<<endl;
 
 }
