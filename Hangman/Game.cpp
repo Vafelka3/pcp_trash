@@ -101,8 +101,6 @@ void Game::start() {
 //    dejPismenna();
 //    vector<char> m_dashes(m_latters.size(),'-');
     while (true){
-//        cout<<m_dashes.size()<<endl;
-//        cout<<m_latters.size()<<endl;
         printPismenna(m_dashes);
         printPokusy();
         printYourPismena();
