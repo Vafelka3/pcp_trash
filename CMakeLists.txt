@@ -23,3 +23,14 @@ add_executable(Hangman Hangman/main.cpp
         Hangman/Word.h
         Hangman/Word.cpp
 )
+
+add_executable(Tesla Tesla/main.cpp
+        Tesla/Auto.h
+        Tesla/Auto.cpp
+        Tesla/Nabij.h
+        Tesla/Nabij.cpp
+        Tesla/Road.h
+        Tesla/Road.cpp
+        Tesla/Game.h
+        Tesla/Game.cpp
+)
